@@ -25,7 +25,7 @@ const About = () => {
           className="relative"
         >
           <img
-            src="/profile1.png"  // <-- PLACE YOUR IMAGE IN public/profile.png
+            src="/me.png"  // <-- PLACE YOUR IMAGE IN public/profile.png
             alt="Profile"
             className="w-200 h-100 rounded-full object-cover border-4 border-white/10 shadow-lg shadow-blue-500/30"
           />
