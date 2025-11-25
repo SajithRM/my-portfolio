@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@keyframes codeRain {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(100%);
+  }
+}
+
+.animate-codeRain {
+  animation: codeRain 18s linear infinite;
+}
+
