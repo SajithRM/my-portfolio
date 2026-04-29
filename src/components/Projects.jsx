@@ -13,6 +13,15 @@ const projects = [
     ],
   },
   {
+    title: "AI SQL Chatbot",
+    description:
+      "A Generative AI-powered chatbot that converts natural language queries into SQL and retrieves results from a MySQL database.",
+    image: "/projects/news.png",
+    github: "https://github.com/SajithRM/chatbot-",
+    tech: ["LangChain ,Google Gemini API ,FastAPI ,React ,MySQL ,ChromaDB ,Sentence Transformers",""
+    ],
+  },
+  {
     title: "Clothing Fashion for Customers",
     description:
       "We trained a clothing dataset using CNN with advanced preprocessing and image cleaning.",
