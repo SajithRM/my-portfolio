@@ -4,6 +4,15 @@ import { ExternalLink } from "lucide-react";
 
 const projects = [
   {
+    title: "News Research AI (RAG System)",
+    description:
+      "An AI-powered news research assistant built using Retrieval-Augmented Generation (RAG).",
+    image: "/projects/news.png",
+    github: "https://github.com/SajithRM/newsresearchtool",
+    tech: ["User │ ▼ React Frontend │ ▼ FastAPI Backend │ ▼ Embedding Model │ ▼ FAISS Vector Store │ ▼ Groq LLM │ ▼ Answer + Sources",""
+    ],
+  },
+  {
     title: "Clothing Fashion for Customers",
     description:
       "We trained a clothing dataset using CNN with advanced preprocessing and image cleaning.",
