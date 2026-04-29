@@ -80,7 +80,7 @@ const Home = () => {
               className="px-6 py-3 bg-purple-600/80 text-white rounded-xl font-semibold 
               hover:bg-purple-600 transition"
             >
-              Explore My Work
+              Explore My Works
             </a>
 
             <a
