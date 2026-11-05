@@ -84,7 +84,7 @@ const HireMe = () => {
           {/* Buttons */}
           <div className="flex gap-6 pt-4">
             <a
-              href="/sajith.pdf" // Change this to your CV
+              href="/sajith1.pdf" // Change this to your CV
               download
               className="px-6 py-3 rounded-xl bg-gradient-to-r from-purple-500 to-blue-500 text-white font-medium shadow-lg shadow-purple-500/20 hover:shadow-purple-500/40 hover:scale-105 transition"
             >
